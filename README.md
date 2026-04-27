@@ -24,7 +24,7 @@ cos(θ) = (A · B) / (||A|| ||B||)
 
 ## Dataset
 
-We use the MovieLens dataset containing:
+ MovieLens dataset containing:
 
 - movies.csv → movie titles and genres
 - ratings.csv → user ratings (optional for future improvements)
